@@ -83,7 +83,8 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-_______ Here Paste the Simulated output  ___________
+<img width="1916" height="1167" alt="image" src="https://github.com/user-attachments/assets/61d6a345-15a9-42b3-9fce-2e1f42b9fcd4" />
+
 
 ---
 ### 4:1 MUX Data flow Modelling
@@ -131,7 +132,9 @@ endmodule
 ```
 ## Simulated Output Dataflow Modelling
 
-_______ Here Paste the Simulated output  ___________
+
+<img width="1916" height="1167" alt="image" src="https://github.com/user-attachments/assets/0af8c7c5-2d4d-4638-a87a-9512b345e280" />
+
 
 ---
 ### 4:1 MUX Behavioral Implementation
@@ -182,7 +185,9 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+
+ <img width="1916" height="1167" alt="image" src="https://github.com/user-attachments/assets/dce9d55e-598e-423f-9b59-841b15ddc308" />
+
 
 
 ### 4:1 MUX Structural Implementation
@@ -238,7 +243,9 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-_______ Here Paste the Simulated output  ___________
+
+<img width="1916" height="1167" alt="image" src="https://github.com/user-attachments/assets/1f3307ed-0013-48e2-8d74-315a378dc3cd" />
+
 
 ---
 ### CONCLUSION
